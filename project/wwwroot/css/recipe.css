@@ -1,0 +1,15 @@
+﻿.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header {
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin-left: 12px;
+}
+
+h2 {
+    text-decoration: underline;
+}

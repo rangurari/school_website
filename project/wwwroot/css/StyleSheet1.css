@@ -1,0 +1,16 @@
+﻿
+p {
+    font-size: 17px;
+}
+
+body {
+    background: #221e1e;
+    color: #ebe1e1;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+    flex-shrink: 0;
+}
